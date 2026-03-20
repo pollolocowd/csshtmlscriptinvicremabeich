@@ -628,17 +628,17 @@ box-shadow: 0 0 10px var(--color3);
 
 .sobre-flotante {
   position: absolute;
-  top: -30px;      /* ajusta según cuánto quieres subir */
-  left: 45%;       /* centrado perfecto */
-  transform: translateX(-50%); /* solo centrado horizontal */
+  top: -80px;       /* cuánto quieres subir el sobre */
+  left: 50%;
+  transform: translate(-50%, 0);  /* centrado horizontal + vertical inicial */
   width: 105px;
   z-index: 10;
+  animation: flotar 2.5s ease-in-out infinite alternate; /* animación aplicada al contenedor */
 }
 
 .sobre-flotante img {
   width: 150%;
   display: block;
-  animation: flotar 2.5s ease-in-out infinite alternate;
 }
 
 @keyframes flotar {
