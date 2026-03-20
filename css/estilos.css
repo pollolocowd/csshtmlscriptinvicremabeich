@@ -628,9 +628,9 @@ box-shadow: 0 0 10px var(--color3);
 
 .sobre-flotante {
   position: absolute;
-  top: -30px;      /* aquí lo subes */
-  left: 40%;       /* SIEMPRE 50% para centrar */
-  transform: translateX(-50%);
+  top: -30px;      /* ajusta según cuánto quieres subir */
+  left: 45%;       /* centrado perfecto */
+  transform: translateX(-50%); /* solo centrado horizontal */
   width: 105px;
   z-index: 10;
 }
@@ -645,6 +645,7 @@ box-shadow: 0 0 10px var(--color3);
   0% { transform: translateY(0); }
   100% { transform: translateY(-10px); }
 }
+
 /* Estilo base de los íconos con zoom y brillo automático */
 .dress-item i {
   font-size: 45px;
