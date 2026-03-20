@@ -289,7 +289,7 @@ if (invitado) {
 const linkSubida = "https://www.dropbox.com/request/JqvGA6LFiUdQsL2vF34L";
 
 // 🔗 LINK FOTOS
-const linkFotos = "https://www.dropbox.com/scl/fo/j4mmjwsggj094dk2xpmsd/AHh-8K5oXl8jtP1C0LpNurw?rlkey=vypcxcko12vzxee5qk4a468e3&st=tcmormbm&dl=0";
+const linkFotos = "https://www.dropbox.com/scl/fo/tty1zwz6rl78bpyz4ojze/AI5eMn7mBbpuv8XMZN3gqfk?rlkey=k5yjqks9vnaaihk11syvyog5m&st=zuxowz90&dl=0";
 
 // 🔐 CONTRASEÑA
 const passwordFotos = "mirella2026";
