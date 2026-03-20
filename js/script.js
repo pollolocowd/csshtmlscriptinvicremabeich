@@ -286,10 +286,10 @@ if (invitado) {
 
 
 // 🔗 LINK SUBIDA (Dropbox)
-const linkSubida = "https://www.dropbox.com/request/IJF8H3t10XeBY80guJU3";
+const linkSubida = "https://www.dropbox.com/request/JqvGA6LFiUdQsL2vF34L";
 
 // 🔗 LINK FOTOS
-const linkFotos = "https://www.dropbox.com/scl/fo/s8xy77ba3lwlq6b5atdkd/AOELaoD-kWLeQcx0IzXQG_w?rlkey=bg2gubkzd3igu2ji3j5d8lqrw&st=reg1h3g9&dl=0";
+const linkFotos = "https://www.dropbox.com/scl/fo/j4mmjwsggj094dk2xpmsd/AHh-8K5oXl8jtP1C0LpNurw?rlkey=vypcxcko12vzxee5qk4a468e3&st=tcmormbm&dl=0";
 
 // 🔐 CONTRASEÑA
 const passwordFotos = "mirella2026";
