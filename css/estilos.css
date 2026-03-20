@@ -629,7 +629,7 @@ box-shadow: 0 0 10px var(--color3);
 .sobre-flotante {
   position: absolute;
   top: -80px;       /* cuánto quieres subir el sobre */
-  left: 50%;
+  left: 45%;
   transform: translate(-50%, 0);  /* centrado horizontal + vertical inicial */
   width: 105px;
   z-index: 10;
@@ -637,7 +637,7 @@ box-shadow: 0 0 10px var(--color3);
 }
 
 .sobre-flotante img {
-  width: 150%;
+  width: 130%;
   display: block;
 }
 
