@@ -272,7 +272,7 @@ animation:shine 5s linear infinite;
 }
 
 @keyframes shine{
-0%{background-position:0%;}
+0%{background-position:-200%;}
 100%{background-position:200%;}
 }
 
