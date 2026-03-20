@@ -442,10 +442,13 @@ h2{
 font-family:'Cinzel', serif;
 font-size:26px;
 margin-bottom:15px;
-color:#d4af37;
-text-shadow:
-0 0 5px rgba(212,175,55,.6),
-0 0 10px rgba(212,175,55,.4);
+
+color:transparent;
+background: linear-gradient(90deg,#ffffff,#c0c0c0,#e5e4e2,#c0c0c0);
+background-size:200%;
+-webkit-background-clip:text;
+
+animation:shine 4s linear infinite;
 }
 
 /* Párrafos y texto normal */
