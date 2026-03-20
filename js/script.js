@@ -129,27 +129,27 @@ this.reset();
 
 const preguntas = [
   {
-    pregunta: "¿Cuál es el color favorito de María?",
+    pregunta: "¿Cuál es el color favorito de Mirella?",
     opciones: ["Azul", "Rosa", "Plata", "Morado"],
     correcta: 2
   },
   {
-    pregunta: "¿Quién es el artista favorito de María?",
+    pregunta: "¿Quién es el artista favorito de Mirella?",
     opciones: ["Bad Bunny", "Taylor Swift", "Shakira", "Ed Sheeran"],
     correcta: 1
   },
   {
-    pregunta: "¿Cuál es la serie favorita de María?",
+    pregunta: "¿Cuál es la serie favorita de Mirella?",
     opciones: ["Stranger Things", "The Witcher", "Friends", "Gossip Girl"],
     correcta: 3
   },
   {
-    pregunta: "¿Cuál es el deporte que más le gusta a María?",
+    pregunta: "¿Cuál es el deporte que más le gusta a Mirella?",
     opciones: ["Fútbol", "Natación", "Tenis", "Básquetbol"],
     correcta: 1
   },
   {
-    pregunta: "¿Cuál es la comida favorita de María?",
+    pregunta: "¿Cuál es la comida favorita de Mirella?",
     opciones: ["Pizza", "Sushi", "Tacos", "Pasta"],
     correcta: 3
   }
@@ -292,7 +292,7 @@ const linkSubida = "https://www.dropbox.com/request/IJF8H3t10XeBY80guJU3";
 const linkFotos = "https://www.dropbox.com/scl/fo/s8xy77ba3lwlq6b5atdkd/AOELaoD-kWLeQcx0IzXQG_w?rlkey=bg2gubkzd3igu2ji3j5d8lqrw&st=reg1h3g9&dl=0";
 
 // 🔐 CONTRASEÑA
-const passwordFotos = "maria2026";
+const passwordFotos = "mirella2026";
 
 // GENERAR QR
 new QRious({
