@@ -628,24 +628,23 @@ box-shadow: 0 0 10px var(--color3);
 
 .sobre-flotante {
   position: absolute;
-  top: -20px;          /* un poco más arriba */
-  left: 62%;           /* centrado horizontal */
+  top: -30px;   /* súbelo más aquí */
+  left: 50%;
   transform: translateX(-50%);
-  width: 105px;        /* sobre más grande */
+  width: 105px;
   z-index: 10;
 }
 
 .sobre-flotante img {
-  width: 150%;         /* ajusta tamaño interno */
+  width: 150%;
   display: block;
   animation: flotar 2.5s ease-in-out infinite alternate;
 }
 
 @keyframes flotar {
-  0% { transform: translateX(-50%) translateY(0); }
-  100% { transform: translateX(-50%) translateY(-10px); }
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-10px); }
 }
-
 /* Estilo base de los íconos con zoom y brillo automático */
 .dress-item i {
   font-size: 45px;
