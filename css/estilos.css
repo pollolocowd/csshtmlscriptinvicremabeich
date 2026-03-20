@@ -455,7 +455,7 @@ background: linear-gradient(120deg,
 background-size:300%;
 -webkit-background-clip:text;
 
-animation: shine 4s ease-in-out infinite;
+animation: shine 4s linear infinite reverse;
 }
 
 /* Párrafos y texto normal */
