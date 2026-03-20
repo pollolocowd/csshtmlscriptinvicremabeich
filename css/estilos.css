@@ -628,8 +628,8 @@ box-shadow: 0 0 10px var(--color3);
 
 .sobre-flotante {
   position: absolute;
-  top: -30px;   /* súbelo más aquí */
-  left: 50%;
+  top: -80px;      /* aquí lo subes */
+  left: 50%;       /* SIEMPRE 50% para centrar */
   transform: translateX(-50%);
   width: 105px;
   z-index: 10;
