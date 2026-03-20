@@ -628,7 +628,7 @@ box-shadow: 0 0 10px var(--color3);
 
 .sobre-flotante {
   position: absolute;
-  top: -50px;          /* un poco más arriba */
+  top: -40px;          /* un poco más arriba */
   left: 62%;           /* centrado horizontal */
   transform: translateX(-50%);
   width: 105px;        /* sobre más grande */
